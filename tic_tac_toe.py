@@ -4,6 +4,7 @@ Created on Thu Apr 15 10:39:49 2021
 
 @author: Dusan
 """
+# Last modified on 16.04.2021
 # ----- Global Variables -----
 
 # Game Board
